@@ -1,0 +1,522 @@
+/*===============================================
+            extra small device part start
+===============================================*/
+@media(min-width:320px) and (max-width:575px) {
+    #menu_top .left a p {
+        font-size: 10px;
+    }
+
+    #menu_top .left a p .fa-phone-alt {
+        margin-left: 0;
+        padding: 0;
+    }
+
+    #menu_top .left a p .fa-envelope {
+        margin-left: 0;
+        padding: 0;
+    }
+
+    #menu_top .left {
+        float: left;
+    }
+
+    #menu_top .right {
+        float: right;
+        margin-top: -25px;
+    }
+
+    #menu_top .right a {
+        margin-top: 10px;
+        font-size: 10px;
+
+    }
+
+    nav ul li {
+        text-align: center;
+    }
+
+    nav .button a {
+        margin-left: 100px;
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    #banner_part .banner_item .overlay .text h2 {
+        font-size: 20px;
+    }
+
+    #banner_part .banner_item .overlay .text h1 {
+        font-size: 25px;
+    }
+
+    #banner_part .banner_item .overlay .text p {
+        width: auto;
+        font-size: 10px;
+    }
+
+    #banner_part .banner_item .overlay .text a {
+        font-size: 13px;
+        margin-top: 100px;
+    }
+
+    .prev,
+    .next {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    #banner_part .class_part .class img {
+        width: 40px;
+        height: 40px;
+        margin-top: 20px;
+    }
+
+    #banner_part .class_part .class h1 {
+        font-size: 10px;
+    }
+
+    #banner_part .class_part .class a p {
+        font-size: 8px;
+        margin: 0;
+    }
+
+    .title p {
+        width: auto;
+    }
+
+    #about_part .text p {
+        text-align: justify;
+    }
+
+    #about_part .text a {
+        font-size: 16px;
+    }
+
+    #counter_part .counters p {
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+
+    #course_part .next {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        right: 0;
+    }
+
+    #course_part .prev {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        left: 0;
+    }
+
+    #course_part .gps_design .condent .right .icon {
+        font-size: 8px;
+        padding-top: 10px;
+    }
+
+    #course_part .gps_design .condent .right .text p {
+        font-size: 10px;
+    }
+
+    #course_part .gps_design .designation h1 {
+        font-size: 22px;
+    }
+
+    #testi_part .prev {
+        top: 50%;
+        left: 20px;
+    }
+
+    #testi_part .next {
+        top: 30%;
+        left: 20px;
+    }
+
+    #testi_part .text_part .icon {
+        margin-bottom: 30px;
+    }
+
+    #testi_part .question h2 {
+        font-size: 17px;
+    }
+
+    #testi_part .question .text h3 {
+        font-size: 17px;
+    }
+
+    #teacher_part .teacher p {
+        margin-bottom: 50px;
+    }
+
+    .blog_partimg .left .img {
+        margin-top: 30px;
+    }
+
+    .blog_partimg .left .img .overlay .text .details .share {
+        float: left;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .blog_partimg .left .img .overlay .text .edu h4 {
+        font-size: 15px;
+    }
+
+    .blog_partimg .left .img .overlay .icon {
+        top: 10px;
+        z-index: 9999;
+    }
+
+    #footer_part .middle ul.rights {
+        margin-left: 30px;
+    }
+
+    #footer_part h2 {
+        margin-top: 30px;
+    }
+
+    #footer_part .right .one .text p {
+        width: auto;
+    }
+
+    #footer_part .instagram h3 {
+        font-size: 10px;
+    }
+
+    #footer_part .copyright p {
+        font-size: 10px;
+    }
+
+}
+
+/*===============================================
+            extra small device part end
+===============================================*/
+/*===============================================
+             small device part start
+===============================================*/
+@media(min-width:576px) and (max-width:767px) {
+    #menu_top .left a p {
+        font-size: 10px;
+    }
+
+    #menu_top .left a p .fa-phone-alt {
+        margin-left: 0;
+    }
+
+    #menu_top .left a p .fa-envelope {
+        margin-left: 0;
+    }
+
+    #menu_top .right a {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+
+    nav .button a {
+        margin-left: 190px;
+    }
+
+    nav ul li {
+        text-align: center;
+    }
+
+    #banner_part .banner_item .overlay .text h2 {
+        font-size: 30px;
+    }
+
+    #banner_part .banner_item .overlay .text h1 {
+        font-size: 40px;
+    }
+
+    #banner_part .banner_item .overlay .text p {
+        width: auto;
+        font-size: 14px;
+    }
+
+    .prev,
+    .next {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+
+    #banner_part .class_part .class img {
+        width: 80px;
+        height: 80px;
+        margin-top: 20px;
+    }
+
+    #banner_part .class_part .class h1 {
+        font-size: 10px;
+    }
+
+    #banner_part .class_part .class a p {
+        font-size: 8px;
+        margin: 0;
+    }
+
+    .title p {
+        width: auto;
+    }
+
+    #about_part .text p {
+        text-align: justify;
+    }
+
+    #counter_part .counters h1 {
+        font-size: 30px;
+    }
+
+    #counter_part .counters p {
+        font-size: 15px;
+    }
+
+    #counter_part .counters p {
+        margin-bottom: 30px;
+    }
+
+    #course_part .next {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        right: 0;
+    }
+
+    #course_part .prev {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        left: 0;
+    }
+    #course_part .gps_design .condent .left .text h3{
+        font-size: 8px;
+    }
+    #course_part .gps_design .condent .left .text h1{
+        font-size: 10px;
+    }
+    #course_part .gps_design .condent .right .icon {
+        font-size: 5px;
+        padding-top: 10px;
+    }
+
+    #course_part .gps_design .condent .right .text p {
+        font-size: 8px;
+    }
+
+    #course_part .gps_design .designation h1 {
+	font-size: 18px;
+	float: left;
+    }
+
+    #testi_part .text_part p {
+        margin-top: 0;
+    }
+
+    #testi_part .prev {
+        top: 50%;
+        left: 20px;
+    }
+
+    #testi_part .next {
+        top: 30%;
+        left: 20px;
+    }
+
+    #testi_part .text_part .icon {
+        margin-bottom: 30px;
+    }
+
+    #testi_part .question h2 {
+        font-size: 17px;
+    }
+
+    #testi_part .question .text h3 {
+        font-size: 17px;
+    }
+
+    #teacher_part .teacher p {
+        margin-bottom: 50px;
+    }
+
+    .blog_partimg .left .img {
+        margin-top: 30px;
+    }
+
+    .blog_partimg .left .img .overlay .text .details .share {
+        float: left;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .blog_partimg .left .img .overlay .icon i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .blog_partimg .left .img .overlay .text .edu h4 {
+        font-size: 15px;
+    }
+
+    .blog_partimg .left .img .overlay .icon {
+        top: 10px;
+        z-index: 9999;
+    }
+
+    #footer_part .middle ul li a {
+        font-size: 13px;
+    }
+
+    #footer_part .middle ul.rights {
+        margin-left: 30px;
+    }
+
+    #footer_part h2 {
+        margin-top: 30px;
+    }
+
+    #footer_part .right .one .text p {
+        width: auto;
+    }
+
+    #footer_part .instagram h3 {
+        font-size: 10px;
+    }
+
+    #footer_part .copyright p {
+        font-size: 10px;
+    }
+
+}
+
+/*===============================================
+             small device part end
+===============================================*/
+/*===============================================
+             medium device part start
+===============================================*/
+@media(min-width:768px) and (max-width:991px) {
+    #menu_top .left a p {
+        font-size: 13px;
+    }
+
+    nav ul li {
+        text-align: center;
+    }
+
+    nav .button a {
+        margin-left: 287px;
+    }
+
+    #counter_part .counters p {
+        font-size: 20px;
+    }
+    #course_part .next {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        right: -24px;
+    }
+
+    #course_part .prev {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        left: -24px;
+    }
+    #event_part .calender .top h3{
+        font-size: 12px;
+    }
+    #event_part .events .text h2{
+        font-size: 11px;
+    }
+    #event_part .events .text p{
+        font-size: 10px;
+        margin: 5px 0px;
+    }
+    #event_part .events a{
+        padding: 10px;
+        font-size: 14px;
+    }
+    #event_part .events .text h6{
+        font-size: 10px;
+    }
+    #testi_part .next,
+    #testi_part .prev{
+        left: -10px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    #testi_part .text_part p{
+        margin-top: 0;
+    }
+    #testi_part .question h2{
+        font-size: 12px;
+    }
+    #testi_part .question .text h3{
+        font-size: 12px;
+    }
+    #testi_part .question .text p{
+        font-size: 11px;
+    }
+    #testi_part .text_part p{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #teacher_part .teacher p{
+        margin-bottom: 50px;
+    }
+}
+
+/*===============================================
+             medium device part end
+===============================================*/
+/*===============================================
+             large device part start
+===============================================*/
+@media(min-width:992px) and (max-width:1199px){
+    nav .button a {
+	font-size: 14px;
+	padding: 10px;
+	margin-left: 80px;
+    }
+    #testi_part .prev{
+        left: 0;
+    }
+    #testi_part .next{
+        left: 0;
+    }
+    #course_part .gps_design{
+        height: 670px;
+    }
+    
+    #course_part .prev{
+        left: -15px;
+    }
+    #course_part .next{
+        right: -15px;
+    }
+    #footer_part .middle ul.rights{
+        margin-left: 40px;
+    }
+    #footer_part .right .one .text p{
+        width: auto;
+    }
+}
+/*===============================================
+             large device part end
+===============================================*/
